@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateRetrieveDataById"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NHibernateInsertData", "NHibernateInsertData\NHibernateInsertData.csproj", "{8C36562D-88FB-471D-A398-9A7533F4FAF5}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NHibernateUpdateData", "NHibernateUpdateData\NHibernateUpdateData.csproj", "{8A1399EB-4EC2-4A03-B6B3-B600BDF306F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NHibernateDeleteData", "NHibernateDeleteData\NHibernateDeleteData.csproj", "{38C08602-9BC4-461B-B0CF-2307D585D60F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{8C36562D-88FB-471D-A398-9A7533F4FAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C36562D-88FB-471D-A398-9A7533F4FAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C36562D-88FB-471D-A398-9A7533F4FAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1399EB-4EC2-4A03-B6B3-B600BDF306F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1399EB-4EC2-4A03-B6B3-B600BDF306F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1399EB-4EC2-4A03-B6B3-B600BDF306F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1399EB-4EC2-4A03-B6B3-B600BDF306F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C08602-9BC4-461B-B0CF-2307D585D60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C08602-9BC4-461B-B0CF-2307D585D60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C08602-9BC4-461B-B0CF-2307D585D60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C08602-9BC4-461B-B0CF-2307D585D60F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
